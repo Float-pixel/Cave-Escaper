@@ -1,0 +1,15 @@
+engine  
+https://www.gbstudio.dev/
+
+map editor:
+https://www.mapeditor.org/
+
+
+sprites and tilesets
+https://jaredchansen.itch.io/gameboy-cave-platformer-tileset
+https://elvies.itch.io/gb-studio-platformer-tilesets
+https://rekkimaru.itch.io/gb-studio-dungeon-tileset-8x8
+
+
+music and SFX  
+https://github.com/DeerTears/GB-Studio-Community-Assets/tree/master/Music

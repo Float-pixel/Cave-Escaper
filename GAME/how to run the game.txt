@@ -1,0 +1,4 @@
+I have included the ROM of my game and a free to use gameboy emulator called BGB.
+You can run "bgb.exe" and then just drag "Cave Escaper.gb" into the window it creates to start playing!
+
+Arrow Keys are the D-PAD, Z and X act as A and B, Enter and Shift as Start and Select.
