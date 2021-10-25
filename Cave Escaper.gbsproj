@@ -9158,6 +9158,43 @@
                     "id": "3aebde8f-9af4-4e45-9f13-4fe16ac88728",
                     "x": 30,
                     "y": 10
+                },
+                {
+                    "name": "",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "df62a099-e980-4736-be28-29eb8468014f",
+                    "spriteType": "static",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 3,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "collisionGroup": "",
+                    "script": [
+                        {
+                            "id": "d7c3408b-6d68-432b-b796-680e20da4280",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "The top of ladders\nact as platforms!"
+                                ],
+                                "avatarId": ""
+                            }
+                        },
+                        {
+                            "id": "93faa4ba-f8ac-4fb8-a71f-3cf3b4646cc1",
+                            "command": "EVENT_END"
+                        }
+                    ],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "4dc53d6a-1bfd-45ad-8eb7-cd8e9a1a0970",
+                    "x": 4,
+                    "y": 11
                 }
             ],
             "triggers": [
@@ -20494,7 +20531,7 @@
                     "id": "8b7751ef-c122-4e7c-8411-e8a5ef3f030c",
                     "command": "EVENT_CAMERA_SHAKE",
                     "args": {
-                        "time": 0.5,
+                        "time": 0.2,
                         "shakeDirection": "horizontal"
                     }
                 },
@@ -26285,8 +26322,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "1A.png",
-            "inode": "11540474045507630",
-            "_v": 1635127389802
+            "inode": "50665495808280872",
+            "_v": 1635182226827
         },
         {
             "id": "73c585c0-81e6-4aa3-9e1f-9fc2e0778e24",
@@ -26296,8 +26333,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "1B.png",
-            "inode": "12103423998928926",
-            "_v": 1635127389802
+            "inode": "28147497671428402",
+            "_v": 1635182226827
         },
         {
             "id": "57155e0d-c899-4683-bb0a-b10612a365af",
@@ -26307,8 +26344,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "1C.png",
-            "inode": "11258999068796956",
-            "_v": 1635127389802
+            "inode": "63613344736971068",
+            "_v": 1635182226827
         },
         {
             "id": "2da0d563-6126-477a-81e7-2128d56ea9a7",
@@ -26318,8 +26355,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "1D.png",
-            "inode": "11540474045507608",
-            "_v": 1635127389802
+            "inode": "38280596833012075",
+            "_v": 1635182226827
         },
         {
             "id": "541a4491-cb0d-411a-bfca-4ff7d5a0ff0a",
@@ -26329,8 +26366,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "2A.png",
-            "inode": "11540474045507603",
-            "_v": 1635127389802
+            "inode": "29836347531692527",
+            "_v": 1635182226827
         },
         {
             "id": "72efe422-1308-401a-96b4-652d523d2155",
@@ -26340,8 +26377,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "2B.png",
-            "inode": "6192449488005122",
-            "_v": 1635127389802
+            "inode": "24206847997479420",
+            "_v": 1635182226827
         },
         {
             "id": "c446a28f-2aba-48bf-a50d-ef5a40d0eb8a",
@@ -26351,8 +26388,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "2C.png",
-            "inode": "11540474045507578",
-            "_v": 1635127389802
+            "inode": "50946970784991775",
+            "_v": 1635182226827
         },
         {
             "id": "65feb567-3c66-4d55-87b4-3537f4fa5608",
@@ -26362,8 +26399,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "2D.png",
-            "inode": "10977524092086253",
-            "_v": 1635127389802
+            "inode": "6755399441418918",
+            "_v": 1635182226827
         },
         {
             "id": "07ad6060-126a-4057-b301-6a53b5ebaee4",
@@ -26373,8 +26410,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "3A.png",
-            "inode": "12384898975639525",
-            "_v": 1635127389802
+            "inode": "7036874418129575",
+            "_v": 1635182226827
         },
         {
             "id": "5930d7d4-3d58-4814-a6d6-d903a713e75b",
@@ -26384,8 +26421,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "3B.png",
-            "inode": "13510798882482132",
-            "_v": 1635127389802
+            "inode": "13792273859185389",
+            "_v": 1635182226827
         },
         {
             "id": "45907ed1-d5a0-4c76-8229-e155ac94be92",
@@ -26395,8 +26432,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "3C.png",
-            "inode": "27021597764593616",
-            "_v": 1635127389802
+            "inode": "16044073672870867",
+            "_v": 1635182226827
         },
         {
             "id": "0977ef79-fd61-4c5d-affa-8a633587abae",
@@ -26406,8 +26443,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "3D.png",
-            "inode": "352125195865033378",
-            "_v": 1635127389802
+            "inode": "48695170971307001",
+            "_v": 1635182226827
         },
         {
             "id": "47db4afb-a018-49b1-ade8-edb5f34b30e7",
@@ -26417,8 +26454,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "4A.png",
-            "inode": "12384898975639502",
-            "_v": 1635127389802
+            "inode": "14636698789317670",
+            "_v": 1635182226827
         },
         {
             "id": "6f2aad69-152c-4463-8fdb-10b614c0ac74",
@@ -26428,8 +26465,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "4B.png",
-            "inode": "505247583195666611",
-            "_v": 1635127389802
+            "inode": "42221246506961969",
+            "_v": 1635182226827
         },
         {
             "id": "1b10a6bf-4dc6-4379-aff4-3beb548d08be",
@@ -26439,8 +26476,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "4C.png",
-            "inode": "177047760351039216",
-            "_v": 1635127389802
+            "inode": "23362423067348594",
+            "_v": 1635182226827
         },
         {
             "id": "dcd09429-56b3-4c2b-a1f4-e0eea295c074",
@@ -26450,8 +26487,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "4D.png",
-            "inode": "26177172834277574",
-            "_v": 1635127389802
+            "inode": "15481123719450311",
+            "_v": 1635182226827
         },
         {
             "id": "9a9ee13b-f8a3-4604-9cff-c7267c599598",
@@ -26461,8 +26498,8 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Title Screen.png",
-            "inode": "164099911422320297",
-            "_v": 1635127389821
+            "inode": "57139420272627770",
+            "_v": 1635182226828
         },
         {
             "id": "521f266c-b6c0-4e67-a9a0-00beb933f228",
@@ -26472,8 +26509,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "black.png",
-            "inode": "20829148276959180",
-            "_v": 1635127389802
+            "inode": "19140298416688892",
+            "_v": 1635182226827
         },
         {
             "id": "0a64a5a9-602a-461e-86c0-d92896443967",
@@ -26483,8 +26520,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "exit.png",
-            "inode": "11821949022218187",
-            "_v": 1635127389802
+            "inode": "23643898044059419",
+            "_v": 1635182226827
         },
         {
             "id": "55965425-339d-4ffb-a3d4-1a54481018ac",
@@ -26494,8 +26531,8 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "explanation.png",
-            "inode": "10696049115375562",
-            "_v": 1635127389802
+            "inode": "17732923533135646",
+            "_v": 1635182226827
         },
         {
             "id": "d0e06a1a-a103-4053-b91d-13e32da76335",
@@ -26505,8 +26542,8 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "preexit.png",
-            "inode": "11821949022218182",
-            "_v": 1635127389802
+            "inode": "11821949022212065",
+            "_v": 1635182226827
         },
         {
             "id": "716c7533-cb8f-45f7-974d-7f021122c585",
@@ -26516,8 +26553,8 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "the end.png",
-            "inode": "673569619268638595",
-            "_v": 1635127389802
+            "inode": "12947848929054691",
+            "_v": 1635182226827
         },
         {
             "id": "c140e040-68e9-4609-9e4b-f2b896860c4f",
@@ -26527,8 +26564,8 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "title.png",
-            "inode": "17451448556431300",
-            "_v": 1635127389802
+            "inode": "30117822508404962",
+            "_v": 1635182226827
         }
     ],
     "spriteSheets": [
@@ -26538,8 +26575,8 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "Chara1.png",
-            "inode": "34621422135779896",
-            "_v": 1635127389802
+            "inode": "15199648742745657",
+            "_v": 1635182226828
         },
         {
             "id": "e9b35835-2fe1-427a-a162-669486c91cda",
@@ -26547,8 +26584,8 @@
             "numFrames": 1,
             "type": "static",
             "filename": "Spr13.png",
-            "inode": "47850746041180727",
-            "_v": 1635127389803
+            "inode": "12947848929060444",
+            "_v": 1635182226828
         },
         {
             "id": "75029016-7571-413b-8ffa-070ecd1caa2f",
@@ -26556,8 +26593,8 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "Spr16.png",
-            "inode": "20547673300247092",
-            "_v": 1635127389803
+            "inode": "12666373952349792",
+            "_v": 1635182226828
         },
         {
             "id": "26389dcc-2d5f-43c2-b4a8-3500b5f2e0dd",
@@ -26565,8 +26602,8 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "Spr19.png",
-            "inode": "14636698789319060",
-            "_v": 1635127389803
+            "inode": "12666373952349796",
+            "_v": 1635182226828
         },
         {
             "id": "eac1ae07-7355-43f8-8bee-490a3937ac76",
@@ -26574,8 +26611,8 @@
             "numFrames": 1,
             "type": "static",
             "filename": "blank.png",
-            "inode": "11821949022212464",
-            "_v": 1635127389802
+            "inode": "14073748835903032",
+            "_v": 1635182226828
         },
         {
             "id": "a87e753c-8463-43d1-9dca-f86ee5f1c40c",
@@ -26583,8 +26620,8 @@
             "numFrames": 1,
             "type": "static",
             "filename": "coveRr.png",
-            "inode": "24769797950902307",
-            "_v": 1635127389802
+            "inode": "14355223812613697",
+            "_v": 1635182226828
         },
         {
             "id": "ab73c50e-6797-452e-9acd-6ca983cd855a",
@@ -26592,8 +26629,8 @@
             "numFrames": 1,
             "type": "static",
             "filename": "cover.png",
-            "inode": "28710447624851478",
-            "_v": 1635127389802
+            "inode": "14355223812613694",
+            "_v": 1635182226828
         },
         {
             "id": "d8cf3fb9-b107-488b-8b48-c307f8a335f0",
@@ -26601,8 +26638,8 @@
             "numFrames": 1,
             "type": "static",
             "filename": "coverL.png",
-            "inode": "17732923533135788",
-            "_v": 1635127389802
+            "inode": "14073748835903039",
+            "_v": 1635182226828
         },
         {
             "id": "bb021ab2-635d-44b6-ba08-aa692fd14562",
@@ -26610,8 +26647,8 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "crystal-sheet.png",
-            "inode": "23643898044059504",
-            "_v": 1635127389802
+            "inode": "14918173766035018",
+            "_v": 1635182226828
         },
         {
             "id": "4d2224c5-8497-4d32-8bf6-5196af6c087a",
@@ -26619,8 +26656,8 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "fireanimi.png",
-            "inode": "20547673300242238",
-            "_v": 1635127389803
+            "inode": "14355223812613718",
+            "_v": 1635182226828
         },
         {
             "id": "af2d1976-aa56-4987-a8c3-4badc41331db",
@@ -26628,8 +26665,8 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "fireball anim.png",
-            "inode": "14073748835897066",
-            "_v": 1635127389803
+            "inode": "12666373952349784",
+            "_v": 1635182226828
         },
         {
             "id": "df62a099-e980-4736-be28-29eb8468014f",
@@ -26637,8 +26674,8 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sign.png",
-            "inode": "6755399441418500",
-            "_v": 1635127389803
+            "inode": "13229323905771098",
+            "_v": 1635182226828
         },
         {
             "id": "d940926a-50e8-4f45-a094-ab334cd6aa9a",
@@ -26646,8 +26683,8 @@
             "numFrames": 1,
             "type": "static",
             "filename": "stalagtite.png",
-            "inode": "18014398509842910",
-            "_v": 1635127389803
+            "inode": "13229323905771110",
+            "_v": 1635182226830
         },
         {
             "id": "67fef586-c389-4a2a-9e6c-bf95bb4bf2a7",
@@ -26655,8 +26692,8 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "torch2anim.png",
-            "inode": "9851624185233226",
-            "_v": 1635127389803
+            "inode": "12384898975639145",
+            "_v": 1635182226830
         }
     ],
     "palettes": [
@@ -26804,24 +26841,24 @@
             "name": "Compression",
             "filename": "Compression.mod",
             "settings": {},
-            "inode": "13229323905770581",
-            "_v": 1635127389751
+            "inode": "15481123719456306",
+            "_v": 1635182226817
         },
         {
             "id": "b1a17403-a035-416c-99d0-2a0b04179eb7",
             "name": "Monty's Overheating Spaceship",
             "filename": "Monty's Overheating Spaceship.mod",
             "settings": {},
-            "inode": "19140298416693986",
-            "_v": 1635127389751
+            "inode": "14918173766034996",
+            "_v": 1635182226817
         },
         {
             "id": "e67ec5a0-56cb-41c6-bc43-6b69815b26f5",
             "name": "Serious Ping Pong Matches",
             "filename": "Serious Ping Pong Matches.mod",
             "settings": {},
-            "inode": "16044073672876754",
-            "_v": 1635127389751
+            "inode": "14918173766034997",
+            "_v": 1635182226817
         }
     ],
     "variables": [
@@ -29083,7 +29120,7 @@
         "showCollisions": true,
         "showConnections": true,
         "worldScrollX": 1568,
-        "worldScrollY": 459,
+        "worldScrollY": 359,
         "zoom": 175,
         "customColorsEnabled": false,
         "customHead": "",
@@ -29099,7 +29136,7 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            640,
+            641,
             30,
             30
         ],
