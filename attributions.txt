@@ -1,5 +1,6 @@
 engine  
 https://www.gbstudio.dev/
+https://github.com/chrismaltby/gb-studio/releases
 
 map editor:
 https://www.mapeditor.org/
